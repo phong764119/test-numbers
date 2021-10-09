@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1f7a8eDa6349F124bAf389d33cFe14331b750442",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x1f7a8eDa6349F124bAf389d33cFe14331b750442",
+  "NETWORK": {
+    "NAME": "Ethereum Rinkeby Test",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test Numbers",
+  "SYMBOL": "TN",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/test-numbers",
+  "SHOW_BACKGROUND": false
+}
